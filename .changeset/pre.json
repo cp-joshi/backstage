@@ -264,5 +264,11 @@
     "@backstage/plugin-vault-node": "0.1.2",
     "@backstage/plugin-xcmetrics": "0.2.47"
   },
-  "changesets": []
+  "changesets": [
+    "create-app-1705484035",
+    "curvy-ladybugs-impress",
+    "polite-meals-hug",
+    "warm-maps-scream",
+    "young-rules-repeat"
+  ]
 }
